@@ -1,0 +1,7 @@
+@article{REPO051,
+    author = "Jung, Wonkyung and Kim, Sangpyo and Ahn, Jung Ho and Cheon, Jung Hee and Lee, Younho",
+    journal = "IACR Transactions on Cryptographic Hardware and Embedded Systems",
+    pages = "114--148",
+    title = "{Over 100x Faster Bootstrapping in Fully Homomorphic Encryption through Memory-Centric Optimization with GPUs}",
+    year = "2021"
+}
